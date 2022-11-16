@@ -1,2 +1,2 @@
-# blue.github.io
+# Data-Science-Website
 Data Science Website
